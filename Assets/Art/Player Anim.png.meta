@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 772b2075a82647b479538b7dfdaf0253
+timeCreated: 1521513142
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Player Anim_0
+    21300002: Player Anim_1
+    21300004: Player Anim_2
+    21300006: Player Anim_3
+    21300008: Player Anim_4
+    21300010: Player Anim_5
+    21300012: Player Anim_6
+    21300014: Player Anim_7
+    21300016: Player Anim_8
+    21300018: Player Anim_9
+    21300020: Player Anim_10
+    21300022: Player Anim_11
+    21300024: Player Anim_20
+    21300026: Player Anim_22
+    21300028: Player Anim_24
+    21300030: Player Anim_25
+    21300032: Player Anim_26
+    21300034: Player Anim_28
+    21300036: Player Anim_36
+    21300038: Player Anim_38
+    21300040: Player Anim_40
+    21300042: Player Anim_45
+    21300044: Player Anim_46
+    21300046: Player Anim_47
+    21300048: Player Anim_48
+    21300050: Player Anim_49
+    21300052: Player Anim_50
+    21300054: Player Anim_51
+    21300056: Player Anim_52
+    21300058: Player Anim_53
+    21300060: Player Anim_54
+    21300062: Player Anim_55
+    21300064: Player Anim_56
+    21300066: Player Anim_57
+    21300068: Player Anim_58
+    21300070: Player Anim_59
+    21300072: Player Anim_60
+    21300074: Player Anim_71
+    21300076: Player Anim_72
+    21300078: Player Anim_73
+    21300080: Player Anim_74
+    21300082: Player Anim_75
+    21300084: Player Anim_76
+    21300086: Player Anim_77
+    21300088: Player Anim_78
+    21300090: Player Anim_79
+    21300092: Player Anim_88
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player Anim_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 695
+        width: 148
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player Anim_10
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 695
+        width: 179
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player Anim_11
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 695
+        width: 184
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player Anim_20
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 694
+        width: 168
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player Anim_22
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 694
+        width: 185
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player Anim_24
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 694
+        width: 168
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player Anim_25
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 694
+        width: 148
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player Anim_26
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 694
+        width: 181
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player Anim_28
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 694
+        width: 182
+        height: 177
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player Anim_36
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 485
+        width: 163
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player Anim_38
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 484
+        width: 184
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player Anim_40
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 484
+        width: 177
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player Anim_49
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 245
+        width: 148
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player Anim_53
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 256
+        width: 197
+        height: 164
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player Anim_54
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 245
+        width: 147
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player Anim_55
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 245
+        width: 148
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player Anim_56
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 245
+        width: 147
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player Anim_59
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 256
+        width: 169
+        height: 161
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player Anim_60
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 256
+        width: 243
+        height: 162
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player Anim_75
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1
+        width: 148
+        height: 188
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player Anim_76
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1
+        width: 148
+        height: 188
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player Anim_77
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1
+        width: 148
+        height: 188
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player Anim_78
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 149
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player Anim_79
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 148
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player Anim_88
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1
+        width: 148
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
